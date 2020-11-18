@@ -1,0 +1,8 @@
+setup.py
+hironobunigo.egg-info/PKG-INFO
+hironobunigo.egg-info/SOURCES.txt
+hironobunigo.egg-info/dependency_links.txt
+hironobunigo.egg-info/top_level.txt
+src/__init__.py
+src/sample.py
+src/tset.py
