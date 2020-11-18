@@ -1,0 +1,74 @@
+<mxfile host="" modified="2020-05-24T14:21:35.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="AKImavzbatNSYAQ6RDgg" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1464" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="M PLUS Rounded 1c^https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="39" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeColor=#d6b656;strokeWidth=2;fontFamily=Verdana;fontSize=16;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="-940" width="140" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24" target="26">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="-896"/>
+                            <mxPoint x="240" y="-839"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="-921.5" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="26" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="-864" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="28" target="26">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="-789"/>
+                            <mxPoint x="240" y="-839"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+                    <mxGeometry x="158.75" y="-814" width="47.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Main.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="283.75" y="-814" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="program1.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="163.75" y="-764" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="program2.cpp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="163.75" y="-871.5" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="-879" width="70" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value=".exe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=19;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="428" y="-860.5" width="40" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;p style=&quot;line-height: 110%&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;実行ファイルの作成&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;C言語、C++では複数のプログラムを一つの実行ファイル（.exe）に変換しています。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="122" y="-1031.5" width="291.25" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="414.07" y="-730" width="67.86" height="47.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeColor=#d79b00;strokeWidth=2;fontFamily=Verdana;fontSize=16;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="-940" width="222.5" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#CCCBCB;labelBackgroundColor=#ffffff;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="218.26" y="-730" width="46" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="人が読みやすい" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="181.88" y="-680" width="118.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="機械が読みやすい" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="374.83000000000004" y="-680" width="150.33" height="32.5" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
