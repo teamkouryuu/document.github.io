@@ -1,0 +1,8 @@
+@startuml
+[WEBサイト解析] lasts 7 days
+then [サイトのコピーを作成(HTML + CSS)] lasts 4 days
+-- 第2段階 --
+then [ウェブプラットフォームの学習(react)] lasts 30 days
+-- 第3段階 --
+then [設計] lasts 30 days
+@endumls
