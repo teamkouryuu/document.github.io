@@ -8,8 +8,7 @@ contextlib2==0.6.0
 distlib==0.3.0
 distro==1.4.0
 future==0.18.2
-# Editable Git install with no remote (hironobunigo==0.2.0)
--e /home/ubuntu/dev/mkdocs
+-e git+git@github.com:teamkouryuu/document.github.io.git@bb0eb8b5a6fc1e5da0f6d62e9e0fb515c1020515#egg=hironobunigo
 html5lib==1.0.1
 httplib2==0.18.1
 idna==2.8
