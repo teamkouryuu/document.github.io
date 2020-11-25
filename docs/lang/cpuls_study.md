@@ -50,7 +50,7 @@ int main(int argc, char* argv[])
 ???+ note " もう少しメイン関数の読み方"
     ---
 
-    ![dir](../img/main_func.drawio.svg)
+    ![dir](img/main_func.drawio.svg) 
 
     ここでは出力については触れてませんが、この出力についても後々わかってくることでしょう。
 
@@ -119,14 +119,14 @@ int main(int argc, char* argv[])
 正確に言うと機械が、読みやすいプログラムが実行ファイルです。  
 また人間が、読みやすいプログラムをcpp、cなどの拡張子のファイルです。  
 
-![dir](../img/ディレクトリ.gif)
+![dir](img/ディレクトリ.gif)
 
 実行ファイルはどのように作られているかを説明します。  
 以下の図のように、複数のプログラムをまとめて1つの実行ファイルを作成します。  
 
 このように実行ファイルを作成してプログラムを実行する言語のことを**コンパイル言語**と呼びます。  
 
-![dir](../img/コンパイル.png)
+![dir](img/コンパイル.png)
 
 ## _学習方法_
 
@@ -144,4 +144,4 @@ int main(int argc, char* argv[])
 
 ---
 
-![howtotools](../img/ツールの説明.jpg)
+![howtotools](img/ツールの説明.jpg)

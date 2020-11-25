@@ -1,3 +1,7 @@
+# Markdown記法 サンプル集
+以下記事を引用しています。
+https://qiita.com/tbpgr/items/989c6badefff69377da7
+
 # 見出し
 * 書き方
 

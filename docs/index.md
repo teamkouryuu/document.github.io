@@ -1,5 +1,6 @@
 # 交流会ドキュメント
 
+交流会を通じて技術の共有や状況を確認するためのサイトです。
 
 ## 目的
 
@@ -34,7 +35,7 @@
     - 使いやすく提供する方法としては、Rest、GraphQLなどがある
 
 
-![dir](../img/outline.drawio.svg)
+![dir](img/outline.drawio.svg)
 
 ## 作業タスク
 
