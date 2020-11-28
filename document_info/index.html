@@ -528,6 +528,19 @@
     Githubへのプッシュ
   </a>
   
+    <nav class="md-nav" aria-label="Githubへのプッシュ">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    プッシュ後の動作について
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -600,6 +613,19 @@
   <a href="#github" class="md-nav__link">
     Githubへのプッシュ
   </a>
+  
+    <nav class="md-nav" aria-label="Githubへのプッシュ">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    プッシュ後の動作について
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -755,6 +781,31 @@ INFO    -  Start detecting changes
 </code></pre></div>
 
 <h2 id="github">Githubへのプッシュ</h2>
+<p>プッシュの流れとしては</p>
+<ol>
+<li>
+<p>編集したファイルを仮確定<br />
+編集したファイルを選択して「＋」を押してステージに上げる
+<img alt="dir" src="../img/git/commit1.png" /></p>
+</li>
+<li>
+<p>編集を確定 コミット<br />
+編集内容を記載して☑を押してコミットする<br />
+<img alt="dir" src="../img/git/commit3.png" /></p>
+</li>
+<li>
+<p>リモートrepositoryにプッシュ<br />
+画面下のバーにある
+<img alt="dir" src="../img/git/commit4.png" />
+⇒<img alt="dir" src="../img/git/commit2.png" />のアイコンを押すことでリモートrepositoryにプッシュされる</p>
+</li>
+</ol>
+<h3 id="_3">プッシュ後の動作について</h3>
+<p>プッシュ後はGitHubActionで自動的にGitHubPagesに反映されます。</p>
+<p>GitHubのrepositoryのAction画面<br />
+<img alt="dir" src="../img/git/githubaction.png" /></p>
+<p>☑が表示されれば、デプロイが完了<br />
+<img alt="dir" src="../img/git/githubaction2.png" /></p>
                 
               
               
