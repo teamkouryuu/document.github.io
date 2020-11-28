@@ -166,5 +166,26 @@ nav :
 
 ## Githubへのプッシュ
 
+プッシュの流れとしては
 
+1. 編集したファイルを仮確定  
+編集したファイルを選択して「＋」を押してステージに上げる
+![dir](img/git/commit1.png)
 
+2. 編集を確定 コミット  
+編集内容を記載して☑を押してコミットする  
+![dir](img/git/commit3.png)
+
+1. リモートrepositoryにプッシュ  
+画面下のバーにある
+![dir](img/git/commit4.png)
+⇒![dir](img/git/commit2.png)のアイコンを押すことでリモートrepositoryにプッシュされる
+
+### プッシュ後の動作について
+プッシュ後はGitHubActionで自動的にGitHubPagesに反映されます。
+
+GitHubのrepositoryのAction画面  
+![dir](img/git/githubaction.png)
+
+☑が表示されれば、デプロイが完了  
+![dir](img/git/githubaction2.png)
