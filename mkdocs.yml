@@ -13,8 +13,8 @@ nav :
     - Info:       lang/info.md
     - JavaScript: lang/js_study.md
     - React.js:
-      - React(過去): lang/js_react.md
-    - C++:        lang/cpuls_study.md
+      - React環境構築: lang/js_react.md
+      - React(過去): lang/js_react_old.md
   - DocumentInfo: document_info.md
 
 theme:
